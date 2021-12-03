@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638507481 source:c:\users\saumya_2\desktop\my coding projects\c\projects\irritator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
